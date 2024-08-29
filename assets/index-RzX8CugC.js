@@ -1,1 +1,0 @@
-import{V as s}from"./VContainer-BCf4ZNxM.js";import{l as e,o,n as t,q as c,v as l}from"./index-EO4Mf8Ye.js";const i=e({__name:"HelloWorld",setup(n){return(r,a)=>(o(),t(s,{class:"fill-height"},{default:c(()=>[l(" oiii ")]),_:1}))}}),f=e({__name:"index",setup(n){return(r,a)=>{const _=i;return o(),t(_)}}});export{f as default};
