@@ -1,0 +1,1 @@
+import{ai as e}from"./index-EO4Mf8Ye.js";const a=e("app",{state:()=>({footerText:"a subpagina que vc esta procurando é igual a um cumprimento comprido famoso em inglês"}),actions:{updateFooterText(o){this.footerText=o}}});export{a as u};
